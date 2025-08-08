@@ -1,0 +1,1 @@
+{"name":"Local: urbanDev","url":"d:\\College Material\\new_competitive_world\\urbanDev.cpp","tests":[{"id":1739468141675,"input":"4\n2 1 2 6\n1 3 5 3\n4 1 4 4\n1 5 5 5","output":"3\n2 2 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College Material\\new_competitive_world\\urbanDev.cpp","group":"local","local":true}

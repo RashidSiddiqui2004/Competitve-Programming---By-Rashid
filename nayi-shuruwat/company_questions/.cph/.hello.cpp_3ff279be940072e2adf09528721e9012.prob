@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"d:\\Competitive Programming\\nayi-shuruwat\\company_questions\\hello.cpp","tests":[{"id":1735143398958,"input":"3 3\n1 2 3","output":"4 6 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\nayi-shuruwat\\company_questions\\hello.cpp","group":"local","local":true}

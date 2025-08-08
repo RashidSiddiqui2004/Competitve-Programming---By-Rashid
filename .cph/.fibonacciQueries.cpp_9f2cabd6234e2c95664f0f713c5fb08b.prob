@@ -1,0 +1,1 @@
+{"name":"Local: fibonacciQueries","url":"d:\\College Material\\new_competitive_world\\fibonacciQueries.cpp","tests":[{"id":1739451574112,"input":"3 5\n1 2 3\nQ 1 2\nQ 2 3\nC 1 2\nQ 1 2\nQ 1 3","output":"4\n8\n5\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College Material\\new_competitive_world\\fibonacciQueries.cpp","group":"local","local":true}

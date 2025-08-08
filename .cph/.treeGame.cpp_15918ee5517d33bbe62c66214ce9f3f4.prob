@@ -1,0 +1,1 @@
+{"name":"Local: treeGame","url":"d:\\College Material\\new_competitive_world\\treeGame.cpp","tests":[{"id":1744213447484,"input":"3\n2\n1\n4\n1 2 3\n4\n1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College Material\\new_competitive_world\\treeGame.cpp","group":"local","local":true}

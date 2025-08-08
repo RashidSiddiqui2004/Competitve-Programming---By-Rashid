@@ -1,0 +1,1 @@
+{"name":"Local: nice","url":"d:\\College Material\\new_competitive_world\\nice.cpp","tests":[{"id":1739422042726,"input":"8\n0\nBB\n0\nBG\n0\nBBGG\n1\nBGG\n1\nBGGB\n1\nBBBGG\n2\nBBGG\n2\nBGB","output":"-1\n0\n1\n1\n1\n3\n1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College Material\\new_competitive_world\\nice.cpp","group":"local","local":true}
