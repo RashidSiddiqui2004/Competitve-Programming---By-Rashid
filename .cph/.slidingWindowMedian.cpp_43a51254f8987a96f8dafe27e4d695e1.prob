@@ -1,1 +1,0 @@
-{"name":"Local: slidingWindowMedian","url":"d:\\College Material\\new_competitive_world\\slidingWindowMedian.cpp","tests":[{"id":1739528568192,"input":"8 3\n2 4 3 5 8 1 2 1","output":"3 4 5 5 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\College Material\\new_competitive_world\\slidingWindowMedian.cpp","group":"local","local":true}
